@@ -1,0 +1,34 @@
+Comparative Ratio & DuPont Analysis – United Spirits vs Radico Khaitan
+
+Tools Used: Ratio Analysis | DuPont Analysis
+Focus: Profitability, efficiency and ROE drivers
+
+Objective:
+To compare financial performance and identify key drivers of return on equity between two companies in the alcoholic beverages industry.
+
+Key Work Done:
+
+Profitability ratio analysis (ROE, ROCE, margins)
+
+Efficiency ratios and working capital analysis
+
+Liquidity and leverage evaluation
+
+DuPont decomposition of ROE
+
+Trend analysis (FY21–FY24)
+
+Key Insights:
+
+United Spirits shows strong margin and ROE growth
+
+Radico demonstrates stable but moderate performance
+
+USL significantly reduced leverage
+
+Radico’s returns partly supported by leverage
+
+USL shows profitability-driven ROE growth
+
+Skills Demonstrated:
+Comparative financial analysis, DuPont modeling, ratio interpretation and business performance evaluation.
