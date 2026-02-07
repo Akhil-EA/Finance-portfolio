@@ -32,3 +32,6 @@ USL shows profitability-driven ROE growth
 
 Skills Demonstrated:
 Comparative financial analysis, DuPont modeling, ratio interpretation and business performance evaluation.
+
+<img width="616" height="571" alt="image" src="https://github.com/user-attachments/assets/0bf94256-a989-476c-9394-0538ae38f620" />
+
